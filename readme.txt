@@ -21,7 +21,7 @@ This plugin lets you create Popups and add them to standalone Wordpress pages or
 A 14-day free trial is available on all annual plans, after which pricing starts at $45/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
 
 **Also Includes:**
-Online Forms: A tool that makes it easy to build, publish and a/b test forms on your website, blog or facebook page, using flexible, mobile-responsive templates.
+Website Forms: A tool that makes it easy to build, publish and a/b test forms on your website, blog or facebook page, using flexible, mobile-responsive templates.
 
 Landing Pages: A tool that makes it easy to build, publish and a/b test landing pages on your website, blog or facebook page, using flexible, mobile-responsive templates.
 
