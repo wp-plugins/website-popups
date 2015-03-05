@@ -11,11 +11,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-> Create great Popups on your wordpress platform in seconds! Use one of our many responsive templates, run A/B tests, promote them with ads and much more.
+> Create great Website Popups on your wordpress platform in seconds! Use one of our many responsive templates, run A/B tests, promote them with ads and much more.
 
 > This plugin can be used with the [Ads Campaigns](http://wordpress.org/plugins/ads-campaigns/ "Create Google Adwords and Facebook Ads campaigns with one click") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to generate leads.
 
-Create Popups from your Wordpress site. Add them to Wordpress pages or embed them where you like. Get new leads, improve conversion rates, and manage all your popups in one place.
+Create Website Popups from your Wordpress site. Add them to Wordpress pages or embed them where you like. Get new leads, improve conversion rates, and manage all your website popups in one place.
 
 **Free Trial & Pricing**
 A 14-day free trial is available on all annual plans, after which pricing starts at just $45/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
