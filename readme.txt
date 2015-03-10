@@ -107,7 +107,7 @@ If you want to hostAll you need is to make sure that the Permalinks are set to "
 Your Popups are stored on Wishpond, so that you can add email automation, ad campaigns and other features to your Popups.
 
 = How do I delete a Popup ? =
-After you create a Popup, you can view it under "Popups". Click on the Popup you wish to delete. This will take you to a new page where you will find a "Delete" link at the bottom of the page
+After you create a Popup, you can view it under "Popups". Click on the Popup you wish to delete. This will take you to a new page where you will find a "Delete" link at the bottom of the page.
 
 = I can't publish a popup on a page, what's wrong ? =
 First, make sure the script provided by the popup is present on the page. Then, check the type of popup and make sure you're using the right trigger. For example, if you're using a click popup, you have to make sure the link that triggers the popup is present on the page. You then have to click that link to get the popup to fire.
