@@ -62,7 +62,7 @@ Landing Pages: A tool that makes it easy to build, publish and a/b test landing 
 == Installation ==
 
 1. Download and unzip the Wordpress Popups plugin.
-2. Upload the `website-popups` folder to the `/wp-content/plugins/` directory.
+2. Upload the 'website-popups' folder to the '/wp-content/plugins/' directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 4. You will now have a new Popups link in your admin menu.
 5. To create a Popup, click the "Add New" link in your wordpress administrator menu, under "Popups", and continue from there. If a login window appears, sign-up or sign in with your e-mail and password.
@@ -110,7 +110,7 @@ Your Popups are stored on Wishpond, so that you can add email automation, ad cam
 After you create a Popup, you can view it under "Popups". Click on the Popup you wish to delete. This will take you to a new page where you will find a "Delete" link at the bottom of the page.
 
 = I can't publish a popup on a page, what's wrong ? =
-First, make sure the script provided by the popup is present on the page. Then, check the type of popup and make sure you're using the right trigger. For example, if you're using a click popup, you have to make sure the link that triggers the popup is present on the page. You then have to click that link to get the popup to fire.
+First, make sure the script provided by the popup is present on the page. Second, make sure the URL specified in the popup editor is matches the page where you installed the script. Then, check the type of popup and make sure you're using the right trigger. For example, if you're using a click popup, you have to make sure the link that triggers the popup is present on the page. You then have to click that link to get the popup to fire.
 
 = What are guest users ? =
 If you want to try out the plugin, simply go in Popups->Settings and click on the checkbox right next to "Guest User", then click "Save Changes". This will make the plugin automatically create a wishpond account for you, with an anonymous e-mail address, so that you can try the test the plugin before signing up.
