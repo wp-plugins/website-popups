@@ -17,6 +17,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Create Website Popups from your Wordpress site. Add them to Wordpress pages or embed them where you like. Get new leads, improve conversion rates, and manage all your website popups in one place.
 
+**Five Type of website popups**
+Entry, Exit, Click, Timed and Javascript-triggered popups.
+
 **Free Trial & Pricing**
 A 14-day free trial is available on all annual plans, after which pricing starts at just $45/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
 
@@ -39,13 +42,11 @@ Landing Pages: A tool that makes it easy to build, publish and a/b test landing 
  
 - 100% Mobile-ready. Works on all iPhones, iPads & Android Devices.
  
-- Wishpond’s Free Page Buddy System gives precise feedback to maximize conversion.
+- Wishpond's Free Page Buddy System gives precise feedback to maximize conversion.
 
-**Custom Form Fields & Like-Gating**
+**Custom Form Fields**
 
 - Collect Emails, Phone Numbers & more with custom entry forms.
- 
-- Add a Like-to-See Fan-Gate so users must Like your Facebook Page to enter.
  
 - Export leads to your Email Marketing or CRM service with a click.
 
