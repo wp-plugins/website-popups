@@ -15,7 +15,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 > This plugin can be used with the [Ads Campaigns](http://wordpress.org/plugins/ads-campaigns/ "Create Retargeting and Facebook Ads campaigns with one click") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to generate leads.
 
-Create a Website Popup from your Wordpress site. Add them to Wordpress pages or embed them where you like. Get new leads, improve conversion rates, and manage all your [website popups](http://corp.wishpond.com/website-popups "Website Popup Builder") in one place.
+Create a [Website Popup](http://corp.wishpond.com/website-popus "Website Popup Builder") from your Wordpress site. Add them to Wordpress pages or embed them where you like. Get new leads, improve conversion rates, and manage all your [website popups](http://corp.wishpond.com/website-popups "Website Popup Builder") in one place.
 
 **Five Types of website popup**
 Entry, Exit, Click, Timed and Javascript-triggered popups.
