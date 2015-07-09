@@ -34,7 +34,7 @@ Landing Pages: A tool that makes it easy to build, publish and a/b test landing 
 
 **Create your Website Popup in Minutes**
 
-- No coding required. Create your Popups with just a few clicks
+- No coding required. Create your [Website Popup](http://corp.wishpond.com/website-popups "Website Popup Builder") with just a few clicks
 
 - Use our Responsive Templates to get the best results
  
