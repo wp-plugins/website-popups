@@ -5,7 +5,7 @@
   /**
    * Plugin Name: Website Popups
    * Plugin URI: http://corp.wishpond.com/website-popups/
-   * Description: Create amazing Popups from your wordpress site and host them anywhere. Run A/B tests, monitor analytics, improve conversion rates and much more.
+   * Description: Create your amazing Website Popup from your wordpress site and host them anywhere. Run A/B tests, monitor analytics, improve conversion rates and much more.
    * Version: 1.0.0
    * Author: atajsekandar, catanasiu
    * Text Domain: website-popups

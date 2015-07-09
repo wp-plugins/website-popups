@@ -11,11 +11,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-> Create great Website Popups on your wordpress platform in seconds! Use one of our many responsive templates, run A/B tests, promote them with ads and much more.
+> Create great [Website Popups](http://corp.wishpond.com/website-popups "Wishpond Website Popup Builder") on your wordpress platform in seconds! Use one of our many responsive templates, run A/B tests, promote them with ads and much more.
 
 > This plugin can be used with the [Ads Campaigns](http://wordpress.org/plugins/ads-campaigns/ "Create Retargeting and Facebook Ads campaigns with one click") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to generate leads.
 
-Create Website Popups from your Wordpress site. Add them to Wordpress pages or embed them where you like. Get new leads, improve conversion rates, and manage all your website popups in one place.
+Create a Website Popup from your Wordpress site. Add them to Wordpress pages or embed them where you like. Get new leads, improve conversion rates, and manage all your website popups in one place.
 
 **Five Type of website popups**
 Entry, Exit, Click, Timed and Javascript-triggered popups.
@@ -32,7 +32,7 @@ Landing Pages: A tool that makes it easy to build, publish and a/b test landing 
 
 **Choose the best Template for you, to have a popup running in minutes!**
 
-**Create your Popups in Minutes**
+**Create your Website Popup in Minutes**
 
 - No coding required. Create your Popups with just a few clicks
 
